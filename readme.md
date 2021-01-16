@@ -1,4 +1,4 @@
-Step to run the priject:
+Step to run the project:
 
 Step-1:  Please run the migration first
 Step-2. Insert some data into financial_organizations table
