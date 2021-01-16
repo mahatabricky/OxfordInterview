@@ -35,7 +35,7 @@
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="account_no" class="col-md-4 col-form-label text-md-right">{{ __('Account Name') }}</label>
+                            <label for="account_no" class="col-md-4 col-form-label text-md-right">{{ __('Account No') }}</label>
                             <div class="col-md-6">
                                 <input id="account_no" type="text" class="form-control" name="account_no" value="{{ old('account_no') }}" autofocus>
                                 @error('account_no')
